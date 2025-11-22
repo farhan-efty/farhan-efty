@@ -13,6 +13,16 @@
 
 I am a highly motivated engineering professional with a passion for **VLSI Design Verification** and semiconductor technologies. My journey combines academic excellence with hands-on project experience and strong leadership in student organizations. Driven by the pursuit of "silicon perfection," I am dedicated to continuous learning and delivering value through creative problem-solving and technical precision.
 
+## 💼 Professional Experience
+
+### Trainee Engineer – Semiconductor Engineering
+**ADN DigiNet** | *September 2025 - Present*
+
+- Learning **VLSI Design Verification (DV)** methodologies and semiconductor technologies
+- Building expertise in **SystemVerilog**, **UVM**, **RTL** design verification, and **Vivado**
+- Utilizing development tools including **VS Code**, **Git Bash**, and **Makefiles** to streamline verification workflows
+- Continuously enhancing technical skills in verification methodologies and industry-standard tools
+
 ## 💻 Technical Skills
 
 ### Hardware & Verification
