@@ -8,139 +8,91 @@
 ## 🚀 About Me
 
 **Trainee Engineer – Semiconductor Engineering** at **ADN DigiNet**  
-**BSc in Electrical & Electronic Engineering** | CGPA 3.475  
-**Ahsanullah University of Science & Technology** *(2019 - 2023)*
+Electrical & Electronic Engineering Graduate | CGPA 3.475 | AUST
 
-I am a highly motivated engineering professional with a passion for **VLSI Design Verification** and semiconductor technologies. My journey combines academic excellence with hands-on project experience and strong leadership in student organizations. Driven by the pursuit of "silicon perfection," I am dedicated to continuous learning and delivering value through creative problem-solving and technical precision.
+Passionate about **VLSI Design Verification** and semiconductor technologies. Combining technical skills with hands-on project experience and proven leadership in professional communities. Dedicated to continuous learning and delivering value in semiconductor verification projects.
 
 ## 💼 Professional Experience
 
 ### Trainee Engineer – Semiconductor Engineering
 **ADN DigiNet** | *September 2025 - Present*
 
-- Learning **VLSI Design Verification (DV)** methodologies and semiconductor technologies
+- Learning **VLSI Design Verification** methodologies and semiconductor technologies
 - Building expertise in **SystemVerilog**, **UVM**, **RTL** design verification, and **Vivado**
-- Utilizing development tools including **VS Code**, **Git Bash**, and **Makefiles** to streamline verification workflows
-- Continuously enhancing technical skills in verification methodologies and industry-standard tools
+- Utilizing development tools: **VS Code**, **Git**, **Makefiles** for verification workflows
 
-## 💻 Technical Skills
+### Membership Development Coordinator
+**IEEE Young Professionals Bangladesh** | *May 2025 - Present*
 
-### Hardware & Verification
-- **VLSI Design**: Cadence Virtuoso, Quartus Prime
-- **Verification**: SystemVerilog, UVM, RTL
-- **Hardware Platforms**: Arduino, STM32
-- **Development Tools**: VS Code, Git Bash, Makefiles
+- Coordinate flagship initiatives: **YPCon 2025**, **IEEE YP Talk Series**, **Region 10 YP UpSkill – Bangladesh 2025**
+- Collaborate with IEEE Student Branches nationwide for YP-focused programs and outreach
+- Bridge academic learning with industry-ready skills through IEEE Bangladesh Section partnerships
 
-### Programming & Software
-- **Languages**: C++, C, Python
-- **Design & Simulation**: Proteus, PSPICE, AutoCAD
-- **IDEs**: STM32 Cube IDE
-- **Office & Documentation**: MS Office Suite, G-Suite, LaTeX
-- **Creative Tools**: Adobe Illustrator, Photoshop, Premiere Pro, Canva
+## 🔧 Technical Skills
 
-### Core Competencies
-- VLSI Design & Verification
-- Digital Circuit Design
-- Embedded Systems Development
-- Power Electronics & Systems
-- Communication Systems
-- Time Management & Leadership
+**Verification & VLSI**: SystemVerilog · UVM · RTL · Vivado · Cadence Virtuoso · Quartus Prime  
+**Programming**: C++ · C · Python  
+**Tools & Platforms**: VS Code · Git · Makefiles · STM32 · Arduino  
+**Design & Simulation**: Proteus · PSPICE · AutoCAD · STM32 Cube IDE  
+**Other**: LaTeX · Adobe Creative Suite · MS Office
 
-## 🎓 Academic Background
+## 🚀 Featured Projects
 
-### BSc in Electrical & Electronic Engineering | CGPA 3.475
-**Ahsanullah University of Science & Technology** | *July 2019 - November 2023*
+### Development of Intelligent Battery Management System for Electric Vehicles
+**Undergraduate Thesis** | *2022-2023*
+- Implemented BMS with SOC estimation, voltage protection, and thermal management using STM32
+- Developed real-time monitoring system with voltage and temperature sensors
+- **Tech Stack**: STM32, Embedded C, Sensor Integration
 
-**Specialized Coursework:**
-- VLSI Design & Fabrication Technology
-- Computer Architecture & Microprocessor Systems
-- Communication Theory & Optical Fiber Communication
-- Power Electronics, Power Systems & Protection
-- Control Systems & Multimedia Communications
+### VLSI Full Adder Design & Comparison
+- Designed and compared 8T, 10T, and 14T Full Adder architectures in Cadence Virtuoso
+- Analyzed performance metrics including power, delay, and area trade-offs
+- **Tech Stack**: Cadence Virtuoso, VLSI Design
 
-### Higher Secondary Certificate (HSC) | GPA 5.00
-**Dhaka City College** | *2016 - 2018*  
-**Group:** Science
+### 8-bit Modified SAP Design
+- Designed custom 8-bit Simple-As-Possible (SAP) computer architecture
+- Implemented instruction set and control logic
+- **Tech Stack**: Digital Design, Computer Architecture
 
-### Secondary School Certificate (SSC) | GPA 5.00
-**Gobindaganj Govt. High School** | *2016*  
-**Group:** Science
+### Network Infrastructure Design for AUST EEE Department
+- Planned and designed complete network structure with IP addressing and subnetting
+- Optimized network topology for departmental requirements
+- **Tech Stack**: Networking, IP Design, Subnet Planning
 
-## 🔬 Featured Projects
+## 🎓 Education
 
-### Undergraduate Thesis
-**Development of Intelligent Battery Management System for Electric Vehicles** *(2022-2023)*
-- Implemented BMS with SOC estimation, voltage protection, and thermal management
-- Developed real-time monitoring using STM32 microcontroller
-- Integrated voltage and temperature sensors for data tracking
+**BSc in Electrical & Electronic Engineering** | CGPA 3.475  
+Ahsanullah University of Science & Technology | *2019 - 2023*
 
-### Technical Projects
-- **VLSI**: 8T, 10T, 14T Full Adder Design & Comparison (Cadence)
-- **Computer Architecture**: 8-bit Modified SAP Design
-- **Network Design**: IP Addressing & Subnetting for AUST EEE Department
-- **Power Electronics**: Brushless DC Motor Controller
-- **Embedded Systems**: Fire Fighting Robot & Underground Cable Fault Detection (Arduino)
-- **Software Development**: Travel Agency Management System (C++)
+**Relevant Coursework**: VLSI Design & Fabrication · Computer Architecture · Communication Systems · Power Electronics · Control Systems
 
-## 🏆 Leadership & Professional Experience
+## 🏆 Leadership Highlights
 
-### IEEE Young Professionals Bangladesh | **Membership Development Coordinator** *(May 2025 - Present)*
-- Collaborate with multiple IEEE Student Branches nationwide to co-host YP-focused programs and outreach
-- Work on flagship initiatives: **YPCon 2025**, **IEEE YP Talk Series**, and **IEEE Region 10 YP UpSkill – Bangladesh 2025**
-- Moderated the **UpSkill 2025 Networking Session** at AUST, fostering meaningful professional connections
-- Coordinate with IEEE Bangladesh Section and IEEE AUST SB to bridge academic learning with industry-ready skills
-- Drive engagement campaigns and post-event follow-ups to convert attendees into active YP members
+**IEEE AUST Student Branch - Chairperson** *(2023-2024)*  
+Led to highest event count and membership since 2004 | Managed 57 officers | Hosted 2 national competitions
 
-### IEEE AUST Student Branch | **Chairperson** *(Feb 2023 - Feb 2024)*
-- Led organization to achieve **highest number of events and members since 2004**
-- Managed team of **57 student officers** and coordinated all chapter activities
-- Hosted **2 national competitions** and co-organized conference with IEEE Bangladesh Section & IEEE Young Professionals
-- Developed new website and established new chapter during tenure
-- Core Volunteer: **26th ICCIT 2023**, **10th ICPS 2023**, **9th IEEE WIECON ECE 2023**
-- Effectively managed social media accounts and digital presence
+**IEEE PES AUST - Vice Chair** *(2022-2023)*  
+High-Performance Chapter Award | IEEE PES DAY Ambassador
 
-### IEEE Power & Energy Society, AUST | **Vice Chair** *(Mar 2022 - Feb 2023)*
-- Achieved **High-Performance Student Branch Chapter Award**
-- Served as **IEEE PES DAY Ambassador**
-- Organized technical seminars, webinars, and workshops
-- Created visuals for events and social media promotions
-- Managed social media accounts of IEEE PES AUST Student Branch Chapter
+**AUST Innovation & Design Club - Joint Secretary** *(2022-2023)*  
+Operations Lead for Mindsparks'22 (1,200+ participants, 30+ institutions)
 
-### AUST Innovation & Design Club | **Joint Secretary** *(Dec 2022 - May 2023)*
-- **Operations Lead** for "Mindsparks'22" - engaged **1,200+ participants from 30+ institutions**
-- Recruited and mentored **63 junior members**; achieved top revenue & sign-ups during Club Fair
-- Event Coordinator for "Mindsparks'23" and curated events like **Innoventure 21** and **Cognibat 21**
-- Designed visuals for events and social media promotions
-- Oversaw event management, logistics, and strengthened cross-club collaboration for innovation-centric programs
-
-### AUST EEE Society | **Assistant Organizing Secretary** *(Nov 2021 - May 2022)*
-- Coordinated departmental workshops, seminars, and student development programs
-- Planned and executed flagship events including **AUST EEE DAY**, sports week, and the picnic **"Tridib Ucchash"**
-- Organized **Three-Minute Thesis** presentation program for EEE students
-- Contributed as volunteer to **Tech Fiesta** and other outreach activities
-- Handled logistics, vendor coordination, and communications for smooth event delivery
-
-### Recognition
 🏅 **Best Volunteer Award** - IEEE AUST Student Branch (2022)
-
-## 🎯 Professional Mission
-
-I combine technical expertise with strong leadership and problem-solving skills to contribute to cutting-edge semiconductor verification projects. My goal is to master VLSI design verification methodologies while staying at the forefront of industry best practices and emerging technologies.
 
 ## 📫 Let's Connect
 
-- **Email**: farhanmuhibefty@gmail.com
-- **Phone/WhatsApp**: +8801521-561607
-- **LinkedIn**: [linkedin.com/in/farhanmuhibefty](https://www.linkedin.com/in/farhanmuhibefty/)
-- **Portfolio**: [sites.google.com/view/farhanmuhibefty](https://sites.google.com/view/farhanmuhibefty/home)
-- **Location**: Dhaka, Bangladesh
+📧 **Email**: farhanmuhibefty@gmail.com  
+📱 **WhatsApp**: +8801521-561607  
+💼 **LinkedIn**: [linkedin.com/in/farhanmuhibefty](https://www.linkedin.com/in/farhanmuhibefty/)  
+🌐 **Portfolio**: [sites.google.com/view/farhanmuhibefty](https://sites.google.com/view/farhanmuhibefty/home)  
+📍 **Location**: Dhaka, Bangladesh
 
 ---
 
 <div align="center">
-  
+
 *"Pursuing excellence in semiconductor design verification, one testbench at a time."*
 
-**Open to collaborations and opportunities in VLSI Design Verification & Semiconductor Engineering**
+**Open to opportunities in VLSI Design Verification & Semiconductor Engineering**
 
 </div>
