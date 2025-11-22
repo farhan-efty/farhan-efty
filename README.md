@@ -48,12 +48,23 @@ I am a highly motivated engineering professional with a passion for **VLSI Desig
 
 ## 🎓 Academic Background
 
+### BSc in Electrical & Electronic Engineering | CGPA 3.475
+**Ahsanullah University of Science & Technology** | *July 2019 - November 2023*
+
 **Specialized Coursework:**
 - VLSI Design & Fabrication Technology
 - Computer Architecture & Microprocessor Systems
 - Communication Theory & Optical Fiber Communication
 - Power Electronics, Power Systems & Protection
 - Control Systems & Multimedia Communications
+
+### Higher Secondary Certificate (HSC) | GPA 5.00
+**Dhaka City College** | *2016 - 2018*  
+**Group:** Science
+
+### Secondary School Certificate (SSC) | GPA 5.00
+**Gobindaganj Govt. High School** | *2016*  
+**Group:** Science
 
 ## 🔬 Featured Projects
 
