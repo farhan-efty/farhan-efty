@@ -1,21 +1,21 @@
 # Hello! 👋 I'm Farhan Muhib Efty
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhanmuhibefty/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google)](https://sites.google.com/view/farhanmuhibefty/home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google)](https://farhan-efty.github.io/my-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:farhanmuhibefty@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/8801521561607)
 
 ## 🚀 About Me
 
-**Trainee Engineer – Semiconductor Engineering** at **ADN DigiNet**  
+**Trainee Engineer – RTL Design and Verification** at **ADN Semiconductors**  
 Electrical & Electronic Engineering Graduate | CGPA 3.475 | AUST
 
 Passionate about **VLSI Design Verification** and semiconductor technologies. Combining technical skills with hands-on project experience and proven leadership in professional communities. Dedicated to continuous learning and delivering value in semiconductor verification projects.
 
 ## 💼 Professional Experience
 
-### Trainee Engineer – Semiconductor Engineering
-**ADN DigiNet** | *September 2025 - Present*
+### Trainee Engineer – RTL Design and Verification
+**ADN Semiconductors** | *September 2025 - Present*
 
 - Learning **VLSI Design Verification** methodologies and semiconductor technologies
 - Building expertise in **SystemVerilog**, **UVM**, **RTL** design verification, and **Vivado**
@@ -84,7 +84,7 @@ Operations Lead for Mindsparks'22 (1,200+ participants, 30+ institutions)
 📧 **Email**: farhanmuhibefty@gmail.com  
 📱 **WhatsApp**: +8801521-561607  
 💼 **LinkedIn**: [linkedin.com/in/farhanmuhibefty](https://www.linkedin.com/in/farhanmuhibefty/)  
-🌐 **Portfolio**: [sites.google.com/view/farhanmuhibefty](https://sites.google.com/view/farhanmuhibefty/home)  
+🌐 **Portfolio**: [sites.google.com/view/farhanmuhibefty](https://farhan-efty.github.io/my-portfolio/)  
 📍 **Location**: Dhaka, Bangladesh
 
 ---
