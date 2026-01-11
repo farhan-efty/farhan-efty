@@ -87,7 +87,7 @@ Operations Lead for Mindsparks'22 (1,200+ participants, 30+ institutions)
 📧 **Email**: farhanmuhibefty@gmail.com  
 📱 **WhatsApp**: +8801521-561607  
 💼 **LinkedIn**: [linkedin.com/in/farhanmuhibefty](https://www.linkedin.com/in/farhanmuhibefty/)  
-🌐 **Portfolio**: [sites.google.com/view/farhanmuhibefty](https://farhan-efty.github.io/my-portfolio/)  
+🌐 **Portfolio**: [Visit My Portfolio](https://farhan-efty.github.io/my-portfolio/)  
 📍 **Location**: Dhaka, Bangladesh
 
 ---
