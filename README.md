@@ -7,15 +7,18 @@
 
 ## 🚀 About Me
 
-**Trainee Engineer – RTL Design and Verification** at **ADN Semiconductors**  
+**Assistant Engineer – RTL Design and Verification** at **ADN Semiconductors**  
 Electrical & Electronic Engineering Graduate | CGPA 3.475 | AUST
 
 Passionate about **VLSI Design Verification** and semiconductor technologies. Combining technical skills with hands-on project experience and proven leadership in professional communities. Dedicated to continuous learning and delivering value in semiconductor verification projects.
 
 ## 💼 Professional Experience
 
+### Assistant Engineer – RTL Design and Verification
+**ADN Semiconductors** | *January 2026 - Present*
+
 ### Trainee Engineer – RTL Design and Verification
-**ADN Semiconductors** | *September 2025 - Present*
+**ADN DigiNet Ltd** | *September 2025 - December 2025*
 
 - Learning **VLSI Design Verification** methodologies and semiconductor technologies
 - Building expertise in **SystemVerilog**, **UVM**, **RTL** design verification, and **Vivado**
