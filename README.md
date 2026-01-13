@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Farhan Muhib Efty
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farhanmuhibefty/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google)](https://farhan-efty.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google)](https://farhan-efty.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:farhanmuhibefty@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/8801521561607)
 
@@ -87,7 +87,7 @@ Operations Lead for Mindsparks'22 (1,200+ participants, 30+ institutions)
 📧 **Email**: farhanmuhibefty@gmail.com  
 📱 **WhatsApp**: +8801521-561607  
 💼 **LinkedIn**: [linkedin.com/in/farhanmuhibefty](https://www.linkedin.com/in/farhanmuhibefty/)  
-🌐 **Portfolio**: [Visit My Portfolio](https://farhan-efty.github.io/my-portfolio/)  
+🌐 **Portfolio**: [Visit My Portfolio](https://farhan-efty.netlify.app/)  
 📍 **Location**: Dhaka, Bangladesh
 
 ---
